@@ -1,0 +1,38 @@
+{
+  "name": "react-native-news-app-lib",
+  "version": "0.1.4",
+  "description": "A React Native library with helpfull components to build the UI of a news application really fast. This is part of my thesis at International Hellenic University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanosmak/react-native-thesis.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "news-app"
+  ],
+  "author": "Thanos Makaronas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thanosmak/react-native-thesis/issues"
+  },
+  "homepage": "https://github.com/thanosmak/react-native-thesis#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.3"
+  },
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "prop-types": "^15.7.2",
+    "react-native-vector-icons": "^6.5.0"
+  }
+}
