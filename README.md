@@ -1,8 +1,6 @@
 # react-native-thesis
 A React Native library with helpful components to build the UI of a news application really fast. This is part of my thesis at International Hellenic University.
 
-A React Native library with helpful components to build the UI of a News Application really fast. This is part of my thesis at International Hellenic University.
-
 In order to use this library first you have to install the node modules the root folder and in the /examples folder. 
 
 ```
