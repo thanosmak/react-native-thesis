@@ -4,7 +4,7 @@ import nextId from "react-id-generator";
 export async function getArticles(category='general') {
 
     try {
-        let articles = await fetch(`${articles_url}?category=${category}&language=${language}`,{
+        let articles = await fetch(`${articles_url}?category=${category}&country=${language}`,{
             headers:{
                 'X-Api-Key':_api_key
             }
